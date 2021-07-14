@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/DQUIZAE8gCwPw39bEoG0mD73c8fizIj0LwiY0WSdncA8bXlb3+flQWnZfq9Lm7EjyPAOBPFU6l5WNdS0n0Dvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hbean\\source\\codeworks\\Knights\\Knights.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hbean\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\hbean\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hbean\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\hbean\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\hbean\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\hbean\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
